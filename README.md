@@ -1,5 +1,6 @@
 # RSProposer
-<p>Adult game for hot nights! For 2 or more players.</p>
+<p>Adult game for hot nights!<br>
+For 2 or more players.</p>
 <br>
 <p>The goal of the game is very simple, just do what the game tells you to do. Once you're done, it's the next player's turn.</p>
 <br>
@@ -12,6 +13,7 @@
 <li>You can play without the timer</li>
 <li>You can skip the timer for the next proposal/change of players.</li>
 <li>Configuration page</li>
+<li>You are informed when a new version of a RSProposer is available.</li>
 <li>...</li>
 </ul>
 <br>
@@ -29,12 +31,23 @@
 <br>
 <hr>
 <br>
-<p><strong>Bugs or suggestions:</strong><br>
-Just contact me "Raddeck" on my:</p>
-<ul><li>Website: https://raiderknight.com</li>
-<li>Forums: https://lifeplay.site</li>
-<li>Github: https://github.com/RaiderKnight</li>
-<li>Discord: https://discord.gg/d3U9E2wb4Y</li></ul>
+<h3>How to update?</h3>
+<p>To update the application, you just have to replace RandomSexualProposer.exe by the new one.</p>
+<p>or</p>
+<p>Delete the folder "RandomSexualProposer" and replace it with the new one.</p>
+<br>
+<hr>
+<br>
+<h3>Contributing</h3>
+<p>Visit the <a href="https://lifeplay.site">Raider Knight community forums</a> or my <a href="https://discord.gg/d3U9E2wb4Y">Discord</a> server for help, to submit a bug, to contribute to the improvement of the application or just to chat!</p>
+<br>
+<hr>
+<br>
+<h3>Supporting</h3>
+<ul>
+<li>Via <a href="https://www.patreon.com/raiderknight">Patreon</a></li>
+<li>Via <a href="https://www.buymeacoffee.com/raiderknight">Discord</a></li>
+</ul>
 <br>
 <hr>
 <br>
