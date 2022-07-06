@@ -1,12 +1,21 @@
 # RSProposer
-<p>Adult game for hot nights!<br>
-For 2 or more players.</p>
+<p>Adult game for your hot nights!</p>
 <br>
-<p>The goal of the game is very simple, just do what the game tells you to do. Once you're done, it's the next player's turn.</p>
+<p>A game that contains a perfect mix of foreplay and sex! Perfect to spice up your evenings or for a sex parties.<br>
+This game will make you live a whole range of emotions where sensuality and sex are in the spotlight.</p>
 <br>
-<p>There are no losers in this game, only sex!</p>
+<p>The goal of the game is very simple, just do what the game tells you to do. Once you're done, it's the next player's turn.<br>
+Successfully completing the game becomes a feat in itself, as there is no end and most of the time, it ends in bed!</p>
 <br>
-<h3>Features:</h3>
+<p>Each challenge is different and entertaining.<br>
+There are no losers in this game, only sex!</p>
+<br>
+<h2>Characteristic:</h2>
+<ul><li>For couples, gays and lesbians</li>
+<li>3 type of propositions (foreplay, soft and hardcore)</li>
+<li>17 foreplay, 30 soft and 30 hardcore propositions</li></ul>
+<br>
+<h2>Features:</h2>
 <ul><li>A timer</li>
 <li>Displays the number of rounds</li>
 <li>You can pause the timer</li>
