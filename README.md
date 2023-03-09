@@ -37,7 +37,7 @@ There are no losers in this game, only sex!</p>
 <br>
 <h3>How to use the RSProposer?</h3>
 <p>Double click on RandomSexualProposer.exe, a window will open.</p>
-<p>Click 'Setting' to set up your game or start the gamee right away.</p>
+<p>Click 'Setting' to set up your game or start the game right away.</p>
 <p>After, just do what the game tells you to do. Once you're done, it's the next player's turn.</p>
 <br>
 <hr>
@@ -50,7 +50,7 @@ There are no losers in this game, only sex!</p>
 <hr>
 <br>
 <h3>Contributing</h3>
-<p>Visit the <a href="https://lifeplay.site">Raider Knight community forums</a> or my <a href="https://discord.gg/d3U9E2wb4Y">Discord</a> server for help, to submit a bug, to contribute to the improvement of the application or just to chat!</p>
+<p>Visit the <a href="https://forums.raiderknight.com">Raider Knight community forums</a> or my <a href="https://discord.gg/d3U9E2wb4Y">Discord</a> server for help, to submit a bug, to contribute to the improvement of the application or just to chat!</p>
 <br>
 <hr>
 <br>
